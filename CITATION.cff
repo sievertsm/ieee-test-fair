@@ -8,5 +8,5 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - name-particle: Michael
+  - given-names: Michael
     family-names: Sieverts

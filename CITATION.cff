@@ -10,3 +10,5 @@ type: software
 authors:
   - given-names: Michael
     family-names: Sieverts
+  - given-names: second
+    family-names: second-family
